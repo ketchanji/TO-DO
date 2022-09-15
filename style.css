@@ -21,8 +21,8 @@
     justify-content: space-between;
     align-items: center;
     position: absolute;
-    left: 25rem;
-    top: 7rem;
+    left: 29rem;
+    top: 9rem;
 }
 
 .inner h1{
@@ -38,8 +38,8 @@
     justify-content: space-between;
     align-items: center;
     position: absolute;
-    left: 25rem;
-    top: 11rem;
+    left: 29rem;
+    top: 13rem;
 }
 #under1 img{
     width: 60%;
@@ -88,7 +88,7 @@
     width: 400px;
     height: 30vh;
     position: absolute;
-    left: 25rem;
+    left: 29rem;
     bottom: 10rem;
 }
 .main .head{
